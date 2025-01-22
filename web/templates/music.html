@@ -1,3 +1,46 @@
 {% extends 'base.html' %}
 {% block content %}
+<body>
+  <!-- bootstrop>jumbotron (welcome page) -->
+  <div class="container py-4">
+    <div class="p-5 mb-4 bg-body-tertiary rounded-3">
+      <div class="text-center container-fluid py-5">
+        <h1 class="display-5 fw-bold">Wav 파일 기반 음악 분석 및 선호 예측</h1>
+        <hr style="width:100%; color:red;">
+        <img src="{{ url_for('static', path='img/playlist.png') }}" width="100">
+      </div>
+      <button type="button" onclick="location='/'" class="btn btn-primary">이전</button>
+      <button type="button" onclick="loacatin='/music/done/'" class="btn btn-success">선호 추출</button>
+      <table class="table table-info table-hover">
+        <thead>
+          <tr>
+            <th scope="col" class="text-center">#</th>
+            <th></th>
+            <th></th>
+            <th scope="col" class="text-center">노래</th>
+            <th></th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% if musics %}
+            {% for music in musics %}
+              <tr>
+                <th scope="row" class="text-center">{{ loop.index }}</th>
+                <td colspan="5" class="text-center">
+                  {{ music }}
+                </td>
+              </tr>
+            {% endfor %}
+          {% else %}
+            <tr>
+              <td colspan="6" class="text-center">파일이 없습니다.</td>
+            </tr>
+          {% endif %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</body>
 {% endblock %}

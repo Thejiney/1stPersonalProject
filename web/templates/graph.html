@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="text-center">
+  <img src="{{ url_for('static', path='apt/'+ graph )}}" class="rounded" width="100%">
+</div>
+<button type="button" onclick="location='/apt/'" class="btn btn-primary">이전</button>
+{% endblock %}
