@@ -50,7 +50,6 @@ async def abstract(request:Request):
   X_data_array = X_data_array.reshape(-1, 38 * X_data_array.shape[2])
   Y = model.predict(X_data_array)
   answer = [filename for filename, y in zip(musics, Y) if y >= 0.5]
-  return ''
 
 @app.get('/music/done')
 async def abstract(request:Request):
