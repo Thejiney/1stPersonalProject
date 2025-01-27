@@ -45,6 +45,7 @@
 ![9전처리](https://github.com/user-attachments/assets/921a4440-9990-4e77-9949-f4d748dd990d)
 ![10전처리](https://github.com/user-attachments/assets/cdce0d1b-5150-48a4-8d28-71bfbcc4ad66)
 ![11전처리](https://github.com/user-attachments/assets/456dde61-6f0d-4fef-956e-cc61a83d2c5f)
+![12전처리](https://github.com/user-attachments/assets/dc03db81-940b-4375-aba3-ade317a47f38)
 ## 4. 시각화
 ![12시각화](https://github.com/user-attachments/assets/f34c796d-8e80-46ee-88cf-165638aeae4a)
 ![13시각화](https://github.com/user-attachments/assets/82b88921-4366-43cb-a710-09e77e216918)
