@@ -21,5 +21,9 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/librosa-7952B3?style=for-the-badge&logo=librosa&logoColor=white">
+  <img src="https://img.shields.io/badge/github-E34F26?style=for-the-badge&logo=github&logoColor=white"> 
+</div>
 
 ## ppt 완성후 수정할 예정"# 1stPersonalProject" 
