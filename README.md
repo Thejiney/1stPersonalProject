@@ -26,4 +26,22 @@
   <img src="https://img.shields.io/badge/github-E34F26?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
-## ppt 완성후 수정할 예정"# 1stPersonalProject" 
+## 목차
+[1. 주제](httP~)<br>
+[2. 구현목표](http)<br>
+[3. 전처리](http)<br>
+[4. 시각화](http)<br>
+[5. 딥러닝 모델](http)<br>
+[6. 웹구현](http)<br>
+
+## 1. 주제
+
+## 2. 구현목표
+
+## 3. 전처리
+
+## 4. 시각화
+
+## 5. 딥러닝 모델
+
+## 6. 웹구현
