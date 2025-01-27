@@ -35,14 +35,23 @@
 [6. 웹구현](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#6-%EC%9B%B9%EA%B5%AC%ED%98%84)<br>
 
 ## 1. 주제
-<img src="https://private-user-images.githubusercontent.com/179419272/406795077-46fcf7e8-f439-44f2-aaee-e06a3c4076db.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5NTAyNzEsIm5iZiI6MTczNzk0OTk3MSwicGF0aCI6Ii8xNzk0MTkyNzIvNDA2Nzk1MDc3LTQ2ZmNmN2U4LWY0MzktNDRmMi1hYWVlLWUwNmEzYzQwNzZkYi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyN1QwMzUyNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTVmNTJiM2U3ZWMwMDhmM2IxYzBmNjlkNWNlNGQzM2ZhN2RkZGE5ZDhiOGJlMDkyOWNjNTg4ZjNlZWMzMTJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wkp78QclLSZzxfrRe3cfkKSS-K833caS0EdLJ53oiUQ" alt="1첫대문">
-![1첫대문](https://private-user-images.githubusercontent.com/179419272/406795077-46fcf7e8-f439-44f2-aaee-e06a3c4076db.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5NTAyNzEsIm5iZiI6MTczNzk0OTk3MSwicGF0aCI6Ii8xNzk0MTkyNzIvNDA2Nzk1MDc3LTQ2ZmNmN2U4LWY0MzktNDRmMi1hYWVlLWUwNmEzYzQwNzZkYi5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyN1QwMzUyNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTVmNTJiM2U3ZWMwMDhmM2IxYzBmNjlkNWNlNGQzM2ZhN2RkZGE5ZDhiOGJlMDkyOWNjNTg4ZjNlZWMzMTJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wkp78QclLSZzxfrRe3cfkKSS-K833caS0EdLJ53oiUQ)
+![1첫대문](https://github.com/user-attachments/assets/46fcf7e8-f439-44f2-aaee-e06a3c4076db)
 ## 2. 구현목표
-
+![5목표](https://github.com/user-attachments/assets/fb38092b-463f-4ca7-954a-85416ee72cd6)
+![6목표](https://github.com/user-attachments/assets/2f0bd7ae-c2e8-4b51-a517-fa67a3a972eb)
 ## 3. 전처리
-
+![7전처리](https://github.com/user-attachments/assets/232abb02-e230-4ae0-8789-7d3b26cba0ac)
+![8전처리](https://github.com/user-attachments/assets/68fecd62-3e01-4f54-a9fb-965816889dbb)
+![9전처리](https://github.com/user-attachments/assets/921a4440-9990-4e77-9949-f4d748dd990d)
+![10전처리](https://github.com/user-attachments/assets/cdce0d1b-5150-48a4-8d28-71bfbcc4ad66)
+![11전처리](https://github.com/user-attachments/assets/456dde61-6f0d-4fef-956e-cc61a83d2c5f)
 ## 4. 시각화
-
+![12시각화](https://github.com/user-attachments/assets/f34c796d-8e80-46ee-88cf-165638aeae4a)
+![13시각화](https://github.com/user-attachments/assets/82b88921-4366-43cb-a710-09e77e216918)
 ## 5. 딥러닝 모델
-
+![14학습그래프](https://github.com/user-attachments/assets/a4a7fbff-c05e-4a84-829e-7c6c4849ce62)
+![15모델평가](https://github.com/user-attachments/assets/d0a07d5d-a023-4a95-81b8-100d5ef8ae66)
 ## 6. 웹구현
+![16웹구현](https://github.com/user-attachments/assets/bfcfcf6e-6f9a-4c97-b364-af7d84a005b9)
+![17웹구현](https://github.com/user-attachments/assets/c2b74265-d0c4-4e05-9ed0-722e55bc5f00)
+![18웹구현](https://github.com/user-attachments/assets/1d48d4d9-a220-4611-af75-c9d8935f06c9)
