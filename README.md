@@ -27,12 +27,12 @@
 </div>
 
 ## 목차
-[1. 주제](httP~)<br>
-[2. 구현목표](http)<br>
-[3. 전처리](http)<br>
-[4. 시각화](http)<br>
-[5. 딥러닝 모델](http)<br>
-[6. 웹구현](http)<br>
+[1. 주제](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#1-%EC%A3%BC%EC%A0%9C)<br>
+[2. 구현목표](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#2-%EA%B5%AC%ED%98%84%EB%AA%A9%ED%91%9C)<br>
+[3. 전처리](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#3-%EC%A0%84%EC%B2%98%EB%A6%AC)<br>
+[4. 시각화](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#4-%EC%8B%9C%EA%B0%81%ED%99%94)<br>
+[5. 딥러닝 모델](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#5-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8)<br>
+[6. 웹구현](https://github.com/Thejiney/1stPersonalProject?tab=readme-ov-file#6-%EC%9B%B9%EA%B5%AC%ED%98%84)<br>
 
 ## 1. 주제
 
